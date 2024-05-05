@@ -42,7 +42,7 @@ require 'utils.gui.group'
 require 'utils.gui.score'
 require 'utils.gui.config'
 require 'utils.gui.poll'
-require 'utils.gui.server_select'
+-- require 'utils.gui.server_select'
 require 'utils.freeplay'
 require 'utils.remote_chunks'
 
