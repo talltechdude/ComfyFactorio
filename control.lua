@@ -73,7 +73,7 @@ require 'utils.remote_chunks'
 --require 'modules.show_health'
 --require 'modules.splice_double'
 --require 'modules.ores_are_mixed'
---require 'modules.team_teleport'
+require 'modules.team_teleport'
 --require 'modules.surrounded_by_worms'
 --require 'modules.no_blueprint_library'
 --require 'modules.explosives'
@@ -102,7 +102,7 @@ require 'utils.remote_chunks'
 --require 'maps.biter_battles.biter_battles'
 
 --![[Guide a Train through rough terrain, while defending it from the biters]]--
---require 'maps.mountain_fortress_v3.main'
+require 'maps.mountain_fortress_v3.main'
 --require 'maps.mountain_fortress_v2.main'
 --require 'maps.mountain_fortress'
 
