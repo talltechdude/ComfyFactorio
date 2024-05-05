@@ -89,7 +89,7 @@ require 'modules.team_teleport'
 --require 'modules.crawl_into_pipes'
 --require 'modules.no_acid_puddles'
 --require 'modules.simple_tags'
---require 'modules.turret_filler'
+require 'modules.turret_filler'
 ---------------------------------------------------------------
 
 ---------------- ENABLE MAPS HERE ----------------
